@@ -89,9 +89,17 @@ body {
         height: 300px;
     }
     #textoResultado{
-        width: 70%;
+        width: 90%;
         height: 300px;
        
+    }
+
+    .titulo{
+        margin-left: 20%;    
+    }
+
+    .boton1{
+        margin-left: 17%;
     }
 
     
